@@ -43,9 +43,13 @@ Other forensics examples:
 
 * [The Internet Archive Is Being Used As A Disinformation Mule](https://medium.com/@_C_3PJoe/the-internet-archive-is-being-used-as-a-disinformation-mule-fc90a6d07ced).
 
+* [Coronavirus: China strips virus research from internet](https://twitter.com/phonedude_mln/status/1250059211830177792)
+
+* [Blake Masters' campaign scrubbed the abortion section of his policy page](https://twitter.com/phonedude_mln/status/1563657589879087107)
+
 ### Class Schedule (subject to change)
 
-* Week 1 - August 29 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-f22/master/slides/week-01-web-arch-memento.pptx)
+* Week 1 - August 29 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://docs.google.com/presentation/d/1OnVfMKJ7l5k9UdFJCz6OqJKuLV7R2FlHiHgqKaVLPcg/edit)
   * Background: [Memento 101](https://www.slideshare.net/hvdsomp/memento-101), [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), [robots.txt](https://www.robotstxt.org/), [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 * Week 2 - September 5 - MLK Day -- no class

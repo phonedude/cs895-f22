@@ -52,7 +52,7 @@ Other forensics examples:
 * Week 1 - August 29 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://docs.google.com/presentation/d/1OnVfMKJ7l5k9UdFJCz6OqJKuLV7R2FlHiHgqKaVLPcg/edit)
   * Background: [Memento 101](https://www.slideshare.net/hvdsomp/memento-101), [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), [robots.txt](https://www.robotstxt.org/), [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-* Week 2 - September 5 - MLK Day -- no class
+* Week 2 - September 5 - Labor Day -- no class
 
 * Week 3 - September 12 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
   * Background: [Academic Communication (presenting)](https://docs.google.com/presentation/d/1Ec3MHCGB99TqsRTelyy5EcjQWeLjA5v5tZl9zABadko/edit), [On the Importance of Web Archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/)

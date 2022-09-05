@@ -183,6 +183,8 @@ Other forensics examples:
 
 * Farhan Asif Chowdhury, Lawrence Allen, Mohammad Yousuf, Abdullah Mueen, [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/), 4th International Workshop on Mining Actionable Insights from Social Networks, 2020.
 
+* Eric Nost ,Gretchen Gehrke,Grace Poudrier,Aaron Lemelin,Marcy Beck,Sara Wylie, [Visualizing changes to US federal environmental agency websites, 2016–2020](https://doi.org/10.1371/journal.pone.0246450), PLOS One, 2021.
+
 ### Current Events
 * [#cs895f22](https://twitter.com/search?q=%23cs895f22&src=typd&f=live&vertical=default)
 

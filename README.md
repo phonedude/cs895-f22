@@ -57,8 +57,8 @@ Other forensics examples:
 * Week 3 - September 12 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
   * Background: [Academic Communication (presenting)](https://docs.google.com/presentation/d/1Ec3MHCGB99TqsRTelyy5EcjQWeLjA5v5tZl9zABadko/edit), [On the Importance of Web Archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/)
 
-* Week 4 - September 19 - [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html)
-  * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706), [DSHR1](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-1.html), [DSHR2](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-2.html), [DSHR3](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-3.html), [MLN](https://ws-dl.blogspot.com/2020/03/2020-03-07-at-nexus-of-cni-keynote-and.html).  
+* Week 4 - September 19 - [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706), [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html)
+  * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [DSHR1](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-1.html), [DSHR2](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-2.html), [DSHR3](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-3.html), [MLN](https://ws-dl.blogspot.com/2020/03/2020-03-07-at-nexus-of-cni-keynote-and.html).  
 
 * Week 5 - September 26 - Student Presentations 1
 
@@ -184,6 +184,22 @@ Other forensics examples:
 * Farhan Asif Chowdhury, Lawrence Allen, Mohammad Yousuf, Abdullah Mueen, [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/), 4th International Workshop on Mining Actionable Insights from Social Networks, 2020.
 
 * Eric Nost ,Gretchen Gehrke,Grace Poudrier,Aaron Lemelin,Marcy Beck,Sara Wylie, [Visualizing changes to US federal environmental agency websites, 2016–2020](https://doi.org/10.1371/journal.pone.0246450), PLOS One, 2021.
+
+* Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, [Where Did the Web Archive Go?](https://arxiv.org/abs/2108.05939), Proceedings of Theory and Practice of Digital Libraries (TPDL), pp. 73-84, 2021.
+
+* Kritika Garg, Himarsha Jayanetti, Michele C. Weigle, and Michael L. Nelson, [Replaying Archived Twitter: When your bird is broken, will it bring you down?](https://arxiv.org/abs/2108.12092), Proceedings of the 2021 ACM/IEEE Joint Conference on Digital Libraries. 
+
+* Mohamed Aturban, Sawood Alam, Michael L. Nelson, Michele C. Weigle, [Archive Assisted Archival Fixity Verification Framework](https://arxiv.org/abs/1905.12565), Proceedings of JCDL 2019, 2019. 
+
+* Ayush Goel, Jingyuan Zhu, Ravi Netravali, Harsha V. Madhyastha, [Jawa: Web Archival in the Era of JavaScript](https://www.usenix.org/conference/osdi22/presentation/goel), Proceedings of OSDI 2022.
+
+* Brenda Reyes Ayala, [Correspondence as the primary measure of quality for web archives: A human-centered grounded theory study](https://rdcu.be/cQbBC), International Journal of Digital Libraries, 23, 2022, pp. 19-31.
+
+* Adam Kriesberg, Amelia Acker, [The second US presidential social media transition: How private platforms impact the digital preservation of public records](https://doi.org/10.1002/asi.24659), JASIST, 2022.
+
+* Johannes Kiesel, Florian Kneist, Milad Alshomary, Benno Stein, Matthias Hagen, and Martin Potthast, [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](https://webis.de/downloads/publications/papers/kiesel_2018c.pdf), Journal of Data and Information Quality, 10(4), 2018.  (see also: [Let's compare memento damage measures!](https://ws-dl.blogspot.com/2018/09/2018-09-03-lets-compare-memento-damage.html))
+
+* Himanshu Zade, Morgan Wack, Yuanrui Zhang, Kate Starbird, Ryan Calo, Jason Young, Jevin D West, [Auditing Google’s Search Headlines as a Potential Gateway to Misleading Content: Evidence from the 2020 US Election](http://students.washington.edu/himanz/docs/electionheadlines.pdf), Journal of Online Trust and Safety, 2022.
 
 ### Current Events
 * [#cs895f22](https://twitter.com/search?q=%23cs895f22&src=typd&f=live&vertical=default)

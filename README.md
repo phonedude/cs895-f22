@@ -58,11 +58,19 @@ Other forensics examples:
   * Background: [Academic Communication (presenting)](https://docs.google.com/presentation/d/1Ec3MHCGB99TqsRTelyy5EcjQWeLjA5v5tZl9zABadko/edit), [On the Importance of Web Archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/)
 
 * Week 4 - September 19 - [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706), [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html)
-  * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [DSHR1](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-1.html), [DSHR2](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-2.html), [DSHR3](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-3.html), [MLN](https://ws-dl.blogspot.com/2020/03/2020-03-07-at-nexus-of-cni-keynote-and.html).  
+  * Background: [Different techniques for generating fixity information on archived web pages](https://github.com/oduwsdl/mementos-fixity/tree/master/hashing_techniques), [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [DSHR1](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-1.html), [DSHR2](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-2.html), [DSHR3](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-3.html), [MLN](https://ws-dl.blogspot.com/2020/03/2020-03-07-at-nexus-of-cni-keynote-and.html).  
 
 * Week 5 - September 26 - Student Presentations 1
+ * David Calano - [Jawa: Web Archival in the Era of JavaScript](https://www.usenix.org/conference/osdi22/presentation/goel)
+ * Tarannum Zaki - [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396)
+ * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
 
 * Week 6 - October 3 - Student Presentations 2
+ * Emily Escamilla - 
+ * Yasith Jayawardana - 
+ * Bhanuka Mahanma -
+ * Lesley Frew - [Visualizing changes to US federal environmental agency websites](https://doi.org/10.1371/journal.pone.0246450)
+ 
 
 * Week 7 - October 10 - Fall Holiday -- no class
 

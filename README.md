@@ -67,8 +67,8 @@ Other forensics examples:
 
 * Week 6 - October 3 - Student Presentations 2
   * Emily Escamilla - 
-  * Yasith Jayawardana - 
-  * Bhanuka Mahanma -
+  * Yasith Jayawardana - [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews)
+  * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/)
   * Lesley Frew - [Visualizing changes to US federal environmental agency websites](https://doi.org/10.1371/journal.pone.0246450)
  
 

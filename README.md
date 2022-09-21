@@ -66,7 +66,6 @@ Other forensics examples:
   * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
 
 * Week 6 - October 3 - Student Presentations 2
-  * Emily Escamilla - 
   * Yasith Jayawardana - [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews)
   * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/)
   * Lesley Frew - [Visualizing changes to US federal environmental agency websites](https://doi.org/10.1371/journal.pone.0246450)
@@ -77,20 +76,21 @@ Other forensics examples:
 * Week 8 - October 17 - Student Forensics Studies 1
 
 * Week 9 - October 24 - Student Presentations 3
+  * Emily Escamilla - 
 
-* Week 10 October 31 - Student Presentations 4
+* Week 10 October 31 - Student Forensics Studies 2
 
-* Week 11 - November 7 - Student Forensics Studies 2
+* Week 11 - November 7 - Student Presentations 4
 
 * Week 12 - November 14 - Student Forensics Studies 3
 
 * Week 13 - November 21 - Student Presentations 5
 
-* Week 14 - November 28 - Student Presentations 6
+* Week 14 - November 28 - Student Forensics Studies 4
 
 * Week 15 - December 5 - Student Forensics Studies 5
 
-* Week 16 - December 12 - Student Forensics Studies 6
+* Week 16 - December 12 - Exam Week
 
 ### Readings (Subject to change; in no particular order; suggestions welcome)
 

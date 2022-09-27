@@ -63,12 +63,12 @@ Other forensics examples:
 * Week 5 - September 26 - Student Presentations 1
   * David Calano - [Jawa: Web Archival in the Era of JavaScript](https://www.usenix.org/conference/osdi22/presentation/goel)
   * Tarannum Zaki - [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396)
-  * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
 
 * Week 6 - October 3 - Student Presentations 2
   * Yasith Jayawardana - [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews)
   * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/)
   * Lesley Frew - [Visualizing changes to US federal environmental agency websites](https://doi.org/10.1371/journal.pone.0246450)
+  * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
  
 
 * Week 7 - October 10 - Fall Holiday -- no class
@@ -76,7 +76,7 @@ Other forensics examples:
 * Week 8 - October 17 - Student Forensics Studies 1
 
 * Week 9 - October 24 - Student Presentations 3
-  * Emily Escamilla - 
+  * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](https://arxiv.org/abs/2108.12092)
 
 * Week 10 October 31 - Student Forensics Studies 2
 
@@ -133,7 +133,6 @@ Other forensics examples:
 * Clifford Lynch, [Stewardship in the 'Age of Algorithms'](https://journals.uic.edu/ojs/index.php/fm/article/view/8097/6583) First Monday 22(12), 2017.
 
 * Ayush Goel, Jingyuan Zhu, Ravi Netravali, Harsha V. Madhyastha, [Jawa: Web Archival in the Era of JavaScript](https://www.usenix.org/conference/osdi22/presentation/goel), Proceedings of OSDI 2022, 2022.
-
 
 * Luca Luceri, Ashok Deb, Adam Badawy, Emilio Ferrara, [Red Bots Do It Better: Comparative Analysis of Social Bot Partisan Behavior](https://arxiv.org/abs/1902.02765), Technical Report arXiv:1902.02765, 2019. 
 

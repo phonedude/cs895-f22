@@ -66,14 +66,15 @@ Other forensics examples:
 
 * Week 6 - October 3 - Student Presentations 2
   * Yasith Jayawardana - [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews)
-  * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/)
   * Lesley Frew - [Visualizing changes to US federal environmental agency websites](https://doi.org/10.1371/journal.pone.0246450)
-  * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/)
  
 
 * Week 7 - October 10 - Fall Holiday -- no class
 
 * Week 8 - October 17 - Student Forensics Studies 1
+  * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/) (Moved from Week 6 because of [the storm](https://twitter.com/ODU/status/1576678342853423104))
+  * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/) (Moved from Week 6 because of [the storm](https://twitter.com/ODU/status/1576678342853423104))
+  * Lesley Frew - J.K. Rowling Transgender-Comments Controversy
 
 * Week 9 - October 24 - Student Presentations 3
   * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](https://arxiv.org/abs/2108.12092)

@@ -77,14 +77,14 @@ Other forensics examples:
 
 * Week 9 - October 24 - Student Presentations 3 / Student Forensics Studies 1 continued 
   * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](https://arxiv.org/abs/2108.12092)
-  * Yasith - (paper)
-  * Bhanuka Mahanma - (forensics study)
-  * David Calano - (forensics study) 
+  * Yasith - [Where Did the Web Archive Go?](https://arxiv.org/abs/2108.05939)
+  * Bhanuka Mahanma - @an_cabraal -- the ex-Governor of the Central Bank of Sri Lanka (CBSL)
 
 * Week 10 October 31 - Student Forensics Studies 2
   * Yasith - 
   * Tarannum - 
   * Emily - 
+  * David Calano - 
 
 * Week 11 - November 7 - Student Presentations 4
 

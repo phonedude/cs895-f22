@@ -82,11 +82,14 @@ Other forensics examples:
 
 * Week 10 October 31 - Student Forensics Studies 2
   * Yasith - 
-  * Tarannum - 
-  * Emily - 
+  * Tarannum - Rep. Marjorie Taylor Greene's controversial 4th of July fabricated tweet
+  * Emily - The Tweets of Jerry Falwell Jr.
   * David Calano - 
 
 * Week 11 - November 7 - Student Presentations 4
+  * Lesley Frew - [The Internet Archive and the socio-technical construction of historical facts](https://doi.org/10.1080/24701475.2018.1455412)
+  * David Calano - [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](https://webis.de/downloads/publications/papers/kiesel_2018c.pdf)
+  * 
 
 * Week 12 - November 14 - Student Forensics Studies 3
 

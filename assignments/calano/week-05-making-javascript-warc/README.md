@@ -1,0 +1,3 @@
+# Making JavaScript WARC
+
+This presentation examines the publication "Jawa: Web Archival in the Era of JavaScript" by Ayush Goel, Jingyuan Zhu, Ravi Netravali, and Harsha V. Madhyastha. As JavaScript becomes an ever-increasing presence on the web, JAWA is a novel archival format which seeks to improve the accuracy and interactivity of web archives. In this presentation I describe the work and findings of the authors and their work's relation to traditional web archives and archival techniques.

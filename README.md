@@ -77,27 +77,38 @@ Other forensics examples:
 
 * Week 9 - October 24 - Student Presentations 3 / Student Forensics Studies 1 continued 
   * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](https://arxiv.org/abs/2108.12092)
-  * Yasith - [Where Did the Web Archive Go?](https://arxiv.org/abs/2108.05939)
+  * Yasith Jayawardana - [Where Did the Web Archive Go?](https://arxiv.org/abs/2108.05939)
   * Bhanuka Mahanma - @an_cabraal -- the ex-Governor of the Central Bank of Sri Lanka (CBSL)
 
 * Week 10 October 31 - Student Forensics Studies 2
-  * Yasith - 
-  * Tarannum - Rep. Marjorie Taylor Greene's controversial 4th of July fabricated tweet
-  * Emily - The Tweets of Jerry Falwell Jr.
-  * David Calano - 
+  * Tarannum - [Rep. Marjorie Taylor Greene's controversial 4th of July fabricated tweet](/assignments/zaki/week-10-fabricated-4th of July-tweet-forensic-study)
+  * Emily Escamilla - The Tweets of Jerry Falwell Jr.
+  * David Calano - [Retracing the Seige of Hong Kong Polytechnic University](/assignments/calano/week-10-retracing-polyu-siege)
 
 * Week 11 - November 7 - Student Presentations 4
   * Lesley Frew - [The Internet Archive and the socio-technical construction of historical facts](https://doi.org/10.1080/24701475.2018.1455412)
   * David Calano - [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](https://webis.de/downloads/publications/papers/kiesel_2018c.pdf)
-  * 
+  * Yasith Jayawardana - Tweets of Andrew Tate
 
 * Week 12 - November 14 - Student Forensics Studies 3
+  * Skanda Dhanushkanda - 
+  * Emily Escamilla - 
+  * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/)
 
 * Week 13 - November 21 - Student Presentations 5
+  * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html); [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf)
+  * Emily Escamilla - 
+  * Bhanuka Mahanma -
 
 * Week 14 - November 28 - Student Forensics Studies 4
+  * Yasith Jayawardana - 
+  * David Calano - 
+  * Lesley Frew - 
 
 * Week 15 - December 5 - Student Forensics Studies 5
+  * Skanda Dhanushkanda -
+  * Bhanuka Mahanma - 
+  * Tarannum Zaki -
 
 * Week 16 - December 12 - Exam Week
 

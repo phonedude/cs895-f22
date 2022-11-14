@@ -81,8 +81,8 @@ Other forensics examples:
   * Bhanuka Mahanma - @an_cabraal -- the ex-Governor of the Central Bank of Sri Lanka (CBSL)
 
 * Week 10 October 31 - Student Forensics Studies 2
-  * Tarannum - [Rep. Marjorie Taylor Greene's controversial 4th of July fabricated tweet](/assignments/zaki/week-10-fabricated-4th of July-tweet-forensic-study)
-  * Emily Escamilla - The Tweets of Jerry Falwell Jr.
+  * Tarannum - [Rep. Marjorie Taylor Greene's controversial 4th of July fabricated tweet](/assignments/zaki/week-10-fabricated-4th%20of%20July-tweet-forensic-study)
+  * Emily Escamilla - [The Tweets of Jerry Falwell Jr.](/assignments/escamilla/week-10-jerry-falwell-jr)
   * David Calano - [Retracing the Seige of Hong Kong Polytechnic University](/assignments/calano/week-10-retracing-polyu-siege)
 
 * Week 11 - November 7 - Student Presentations 4
@@ -91,14 +91,14 @@ Other forensics examples:
   * Yasith Jayawardana - Tweets of Andrew Tate
 
 * Week 12 - November 14 - Student Forensics Studies 3
-  * Skanda Dhanushkanda - 
-  * Emily Escamilla - 
-  * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/)
+  * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf)
+  * Emily Escamilla - Verified accounts on Twitter @RudyGiualianiESQ vs @RudyGiualiani
 
 * Week 13 - November 21 - Student Presentations 5
-  * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html); [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf)
+  * Skanda Dhanushkanda - How well are Srilankan sites archived?
   * Emily Escamilla - 
   * Bhanuka Mahanma -
+  * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/)
 
 * Week 14 - November 28 - Student Forensics Studies 4
   * Yasith Jayawardana - 

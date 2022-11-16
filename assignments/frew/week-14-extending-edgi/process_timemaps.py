@@ -8,13 +8,12 @@ date20 = datetime(2020, 7, 1, 0, 0, 2)
 date20begin = datetime(2019,12,31,23,59,59)
 
 #for x in range(0,3):
-x = 0
+x = 2
 for timemap in os.listdir('timemaps'+ str(x)):
     try:
         jso = pd.read_json("timemaps" + str(x) + "/" + timemap)
     except:
         continue #empty timemap
-    
     
     firstd = jso.loc['first']['mementos']['datetime']
     first = firstd.split('-')
@@ -34,6 +33,6 @@ for timemap in os.listdir('timemaps'+ str(x)):
         if mdt > date20begin and mdt < date20 and len(find20) == 0:
             find20 = memento  
         if len(find16) > 0 and len(find20) > 0:
-            print('{',find16, ',',find20,'},')
+            print('{',"'id':","'" + timemap[:-5] + "'",", 'original_uri':","'"+jso.loc['first']['original_uri']+"'",", 'urim_2016':",find16, ", 'urim_2020':",find20,'},')
             break
     

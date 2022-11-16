@@ -4,6 +4,8 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 import re
+import uniseg.wordbreak
+import string
 
 def dt_obj(mdt):
    mdt = mdt.replace("T", " ")
@@ -48,8 +50,18 @@ def binsearch_delterm(mlist, term, sidx, eidx):
   termre = get_termre(term)
   cidx = (sidx + eidx) // 2
   while(True):
+    print("Processing memento " + mlist[cidx]['uri'])
+    #print(sidx, cidx, eidx)
     #to do: refactor when done debugging
     res = requests.get(mlist[cidx]['uri'])
+    if 'x-archive-orig-date' not in res.headers:
+       #print("uh oh " + str(cidx))
+       #print("Removed mememto " + str(cidx) + ", renumbering...")
+       del mlist[cidx]
+       eidx = eidx - 1
+       continue
+    #else:
+    #   print("header good " + str(cidx))
     #print(cidx, res.status_code)
     #to do: if redirect figure that out
     #problem: https://webarchive.loc.gov/all/20170220132206/http://www.esrl.noaa.gov/gmd/obop/thd/
@@ -62,6 +74,7 @@ def binsearch_delterm(mlist, term, sidx, eidx):
     else:
       eidx = cidx - 1
     cidx2 = (sidx + eidx) // 2
+    #print(cidx2)
     if cidx2 == cidx:
       cidx = cidx2
       if y is None:
@@ -71,10 +84,23 @@ def binsearch_delterm(mlist, term, sidx, eidx):
       cidx = cidx2
         
   #print(cidx)
-  print("The term " + term + " was deleted between these two mementos: ")
+  print("\nThe term " + term + " was deleted between these two mementos: ")
   print(mlist[cidx])
   print(mlist[cidx + 1])
   #https://web.archive.org/web/diff/20190910181030/20190911183507/https://www.cdc.gov/climateandhealth/
+  res = requests.get(mlist[cidx]['uri'])
+  text = BeautifulSoup(res.content, 'lxml')
+  textbody = extract_body(text)
+  wc1 = wc(textbody)
+  print("pre-deletion wc: " + str(wc1))
+  res = requests.get(mlist[cidx+1]['uri'])
+  text = BeautifulSoup(res.content, 'lxml')
+  textbody = extract_body(text)
+  wc2 = wc(textbody)
+  print("post-deletion wc: " + str(wc2))
+  if (wc2 < .1 * wc1):
+      print("***order of magnitude reduction in wc***")
+  print(" ")
 
 def binsearch_addterm(mlist, term, sidx, eidx):
   termre = get_termre(term)
@@ -86,6 +112,7 @@ def binsearch_addterm(mlist, term, sidx, eidx):
     #print('here')
     cidx = (sidx + eidx) // 2
     while(True):
+      print("Processing memento " + mlist[cidx]['uri'])
       #to do: refactor when done debugging
       res = requests.get(mlist[cidx]['uri'])
       #print(res.status_code, mlist[cidx]['uri'])
@@ -108,7 +135,7 @@ def binsearch_addterm(mlist, term, sidx, eidx):
       else:
          cidx = cidx2
 
-    print("The term " + term + " was added in this memento: ")
+    print("\nThe term " + term + " was added in this memento: ")
     print(mlist[cidx])
     
 def termsearch(mlist, idx, termre):
@@ -120,6 +147,17 @@ def termsearch(mlist, idx, termre):
   
 def get_termre(term):
   return re.compile(r'\b' + term + r'\b', re.I)
+  
+def wc(content):
+    content_words = uniseg.wordbreak.words(content)
+    r = []
+    for word in content_words:
+        if word in string.punctuation:
+            continue
+        if not word.strip():
+            continue
+        r.append(word)
+    return len(r)
 
 def main():
 
@@ -140,7 +178,6 @@ def main():
 
   jso = pd.read_json('temptimemap.json')
   mlist = jso.loc['list']['mementos']
-
 
   sdate = dt_obj(start)
   edate = dt_obj(end)

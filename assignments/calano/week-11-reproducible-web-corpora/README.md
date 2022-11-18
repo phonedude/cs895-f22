@@ -1,0 +1,7 @@
+# Presentation on [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](https://doi.org/10.1145/3239574)
+
+In this assignment I am presenting the 2018 paper by Keisel et. al. utilizes previous work by Dr. Justin Brunelle in his 2014 paper titled, [Not All Mementos Are Created Equal: Measuring The Impact Of Missing Resources](https://www.cs.odu.edu/~mln/pubs/jcdl-2014/jcdl-2014-brunelle-damage.pdf). In Keisel's paper they attempt to take a machine learning approach by creating a neural network which can quickly evaluate the damage of a replayed web archive. Compared to Dr. Brunelle's previous work, this approach makes use of screenshots cached during the time of capture and screenshots reproduced during archive replay to assess their visible differences. Keisel et. al. break from the previous heuristics-based approach by Dr. Brunelle et. al., moving to an approach of automated calculation using RMSE and neural networks based on VGGNet. Dr. Brunelle wrote [a follow up blog post](https://ws-dl.blogspot.com/2018/09/2018-09-03-lets-compare-memento-damage.html) on the [Web Science and Digital Libraries blog](https://ws-dl.blogspot.com/) for those interested in further commentary.
+
+# Related Links
+[Memento Damage homepage](https://memento-damage.cs.odu.edu/)
+[VGGNet](https://arxiv.org/abs/1409.1556)

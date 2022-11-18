@@ -88,7 +88,7 @@ Other forensics examples:
 * Week 11 - November 7 - Student Presentations 4
   * Lesley Frew - [The Internet Archive and the socio-technical construction of historical facts](https://doi.org/10.1080/24701475.2018.1455412)
   * David Calano - [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](https://webis.de/downloads/publications/papers/kiesel_2018c.pdf)
-  * Yasith Jayawardana - Tweets of Andrew Tate
+  * Yasith Jayawardana - [Tweets of Andrew Tate](/assignments/jayawardana/week-11-tweets-of-andrew-tate)
 
 * Week 12 - November 14 - Student Forensics Studies 3
   * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf)
@@ -96,8 +96,8 @@ Other forensics examples:
 
 * Week 13 - November 21 - Student Presentations 5
   * Skanda Dhanushkanda - How well are Srilankan sites archived?
-  * Emily Escamilla - 
-  * Bhanuka Mahanma -
+  * Emily Escamilla - [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html)
+  * Bhanuka Mahanma - [Diffusion of Lexical Change in Social Media](https://doi.org/10.1371/journal.pone.0113114)
   * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/)
 
 * Week 14 - November 28 - Student Forensics Studies 4

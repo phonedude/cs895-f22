@@ -22,6 +22,13 @@ Background from the paper:
 * filter_params.py - filter timemaps that contain extraneous mementos for URI-Rs with queries
 * process_timemaps_noia.py - extract paired mementos that only exist outside of the Wayback Machine
     * output: aggreg0.txt, aggreg1.txt, aggreg2.txt, aggregf.txt
+* exemplar timemaps:
+    * 00003 - example of IA paired mementos not included in original list
+    * 00051, 19515 - example of filtered time map (query with one parameter/multiple parameters)
+    * 00223 - example of where there is only one memento in the first half of 2016 not at IA
+    * 00250 - example of where there are multiple mementos in the first half of 2016, none at IA
+    * 07345 - example of where there are a mix of mementos in the first half of 2016, IA and non-IA
+    * 18419 - example of a filtered time map where both the 2016 and 2020 mementos are not at IA
 
 ### What are the status codes of the 9,144 paired mementos in the paper?
 

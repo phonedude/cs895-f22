@@ -21,7 +21,7 @@ Background from the paper:
 * count_params.py - count how many URI-Rs contain queries
 * filter_params.py - filter timemaps that contain extraneous mementos for URI-Rs with queries
 * process_timemaps_noia.py - extract paired mementos that only exist outside of the Wayback Machine
-    * output: aggreg0.txt, aggreg1.txt, aggreg2.txt - no output for filtered timemaps
+    * output: aggreg0.txt, aggreg1.txt, aggreg2.txt, aggregf.txt
 
 ### What are the status codes of the 9,144 paired mementos in the paper?
 

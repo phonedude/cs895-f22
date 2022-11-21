@@ -39,3 +39,5 @@ Background from the paper:
     * output: stat_2.txt 
 * process_statuscodes.py - calculate status code pairs using EDGI datetimes
 * process_statuscodes_2.py - calculate status code pairs using alternate datetimes
+* get_statuscodes_newpairs.py - investigate if all new pairs at IA have non-200 paired status codes (false)
+    * output from get_statuscode.py with this input: stat_newpairs.txt (only includes new pairs with 1st 2016+2020 mementos coincidentally at IA)

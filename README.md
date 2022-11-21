@@ -61,23 +61,23 @@ Other forensics examples:
   * Background: [Different techniques for generating fixity information on archived web pages](https://github.com/oduwsdl/mementos-fixity/tree/master/hashing_techniques), [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [DSHR1](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-1.html), [DSHR2](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-2.html), [DSHR3](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-3.html), [MLN](https://ws-dl.blogspot.com/2020/03/2020-03-07-at-nexus-of-cni-keynote-and.html).  
 
 * Week 5 - September 26 - Student Presentations 1
-  * David Calano - [Jawa: Web Archival in the Era of JavaScript](https://www.usenix.org/conference/osdi22/presentation/goel)
-  * Tarannum Zaki - [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396)
+  * David Calano - [Jawa: Web Archival in the Era of JavaScript](/assignments/calano/week-05-making-javascript-warc)
+  * Tarannum Zaki - [Understanding Web Archiving Services and Their (Mis)Use on Social Media](/assignments/zaki/week-05-social-media-misuse-web-archive)
 
 * Week 6 - October 3 - Student Presentations 2
-  * Yasith Jayawardana - [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews)
-  * Lesley Frew - [Visualizing changes to US federal environmental agency websites](https://doi.org/10.1371/journal.pone.0246450)
+  * Yasith Jayawardana - [Fake News vs Satire: A Dataset and Analysis](/assignments/jayawardana/week-06-fake-news-vs-satire)
+  * Lesley Frew - [Visualizing changes to US federal environmental agency websites](/assignments/frew/week-06-edgi-federal-website-changes)
 
 * Week 7 - October 10 - Fall Holiday -- no class
 
 * Week 8 - October 17 - Student Forensics Studies 1
-  * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/) (Moved from Week 6 because of [the storm](https://twitter.com/ODU/status/1576678342853423104))
-  * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/) (Moved from Week 6 because of [the storm](https://twitter.com/ODU/status/1576678342853423104))
-  * Lesley Frew - [J.K. Rowling Transgender-Comments Controversy](https://github.com/phonedude/cs895-f22/tree/main/assignments/frew/week-08-jkrowling-transgender-controversy)
+  * Bhanuka Mahanma - [What makes fake images detectable? Understanding properties that generalize](/assignments/mahanama/week-08-what-makes-fake-images-detectable) (Moved from Week 6 because of [the storm](https://twitter.com/ODU/status/1576678342853423104))
+  * Skanda Dhanushkanda - [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](/assignments/dhanushkanda/week-08-melting-pot-of-origins) (Moved from Week 6 because of [the storm](https://twitter.com/ODU/status/1576678342853423104))
+  * Lesley Frew - [J.K. Rowling Transgender-Comments Controversy](/assignments/frew/week-08-jkrowling-transgender-controversy)
 
 * Week 9 - October 24 - Student Presentations 3 / Student Forensics Studies 1 continued 
-  * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](https://arxiv.org/abs/2108.12092)
-  * Yasith Jayawardana - [Where Did the Web Archive Go?](https://arxiv.org/abs/2108.05939)
+  * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](/assignments/escamilla/week-09-replaying-archived-twitter)
+  * Yasith Jayawardana - [Where Did the Web Archive Go?](/assignments/jayawardana/week-09-where-did-the-web-archive-go)
   * Bhanuka Mahanma - @an_cabraal -- the ex-Governor of the Central Bank of Sri Lanka (CBSL)
 
 * Week 10 October 31 - Student Forensics Studies 2
@@ -86,8 +86,8 @@ Other forensics examples:
   * David Calano - [Retracing the Seige of Hong Kong Polytechnic University](/assignments/calano/week-10-retracing-polyu-siege)
 
 * Week 11 - November 7 - Student Presentations 4
-  * Lesley Frew - [The Internet Archive and the socio-technical construction of historical facts](https://doi.org/10.1080/24701475.2018.1455412)
-  * David Calano - [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](https://webis.de/downloads/publications/papers/kiesel_2018c.pdf)
+  * Lesley Frew - [The Internet Archive and the socio-technical construction of historical facts](/assignments/frew/week-11-socio-technical-north-korea)
+  * David Calano - [Reproducible Web Corpora: Interactive Archiving with Automatic Quality Assessment](/assignments/calano/week-11-reproducible-web-corpora)
   * Yasith Jayawardana - [Tweets of Andrew Tate](/assignments/jayawardana/week-11-tweets-of-andrew-tate)
 
 * Week 12 - November 14 - Student Forensics Studies 3

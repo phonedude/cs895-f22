@@ -103,7 +103,7 @@ Other forensics examples:
 * Week 14 - November 28 - Student Forensics Studies 4
   * Yasith Jayawardana - 
   * David Calano - 
-  * Lesley Frew - 
+  * Lesley Frew - EDGI revisited
 
 * Week 15 - December 5 - Student Forensics Studies 5
   * Skanda Dhanushkanda -

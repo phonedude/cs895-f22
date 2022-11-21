@@ -23,6 +23,8 @@ After a review of the protocols and mechanics of web archiving and social media,
 
 Other forensics examples:
 
+* [David DePape's blog on "frenleyfrens.com" was crawled by Bing by at least October 24, 2022 -- four days before the attack on Paul Pelosi](https://ws-dl.blogspot.com/2022/11/2022-11-02-david-depapes-blog-on.html)
+
 * [The Conservative Party Speeches and Why We Need Multiple Web Archives](https://ws-dl.blogspot.com/2013/11/2013-11-21-conservative-party-speeches.html)
 
 * [Links to abovethelaw.com broken on the live web and blocked from the archive](https://twitter.com/phonedude_mln/status/1229159766154514432). 
@@ -46,6 +48,10 @@ Other forensics examples:
 * [Coronavirus: China strips virus research from internet](https://twitter.com/phonedude_mln/status/1250059211830177792)
 
 * [Blake Masters' campaign scrubbed the abortion section of his policy page](https://twitter.com/phonedude_mln/status/1563657589879087107)
+
+* [What exactly did #KathyGriffin say to have her account @kathygriffin suspended?](https://twitter.com/phonedude_mln/status/1589469525485162496)
+
+* A good summary of web archives and their use in disinformation studies: [Using Web Archives in Disinformation Research](https://ws-dl.blogspot.com/2022/09/2022-09-28-using-web-archives-in.html)
 
 ### Class Schedule (subject to change)
 

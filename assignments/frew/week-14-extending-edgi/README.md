@@ -13,6 +13,8 @@ Background from the paper:
 
 ### Are there additional paired mementos considering archives beyond the Wayback Machine?
 
+Yes, there are 8,500 additional paired mementos beyond the 9,144 found in the original paper.
+
 * read_edgi.py - extract URI-Rs to feed into memgator
 * get_timemaps.py - get the 30,000 timemaps for URI-Rs without paired mementos
 * count_empty_timemaps.py - count how many timemaps are empty
@@ -32,6 +34,8 @@ Background from the paper:
 
 ### What are the status codes of the 9,144 paired mementos in the paper?
 
+75% of the paired mementos have a 200 to 200 status code.
+
 * read_edgi.py - extract URI-Rs and datetimes to feed into status code scripts
 * get_statuscodes.py - extract status codes from Internet Archive CDX that match the datetimes in the EDGI file
     * output: statc_merge.txt 
@@ -41,3 +45,10 @@ Background from the paper:
 * process_statuscodes_2.py - calculate status code pairs using alternate datetimes
 * get_statuscodes_newpairs.py - investigate if all new pairs at IA have non-200 paired status codes (false)
     * output from get_statuscode.py with this input: stat_newpairs.txt (only includes new pairs with 1st 2016+2020 mementos coincidentally at IA)
+
+### How can the granularity of a term's deletion in paired mementos be increased?
+
+Binary search over the mementos in a time map can increase granularity.
+
+* granularity.py - calculate the addition and deletion of a term given paired mementos
+    * output: granularity-out.txt

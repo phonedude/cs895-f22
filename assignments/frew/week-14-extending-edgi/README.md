@@ -2,7 +2,7 @@
 
 ## Slides
 
-tbd
+[CS 895 Extending EDGI.pdf](CS%20895%20Extending%20EDGI.pdf)
 
 ## Data and Code
 

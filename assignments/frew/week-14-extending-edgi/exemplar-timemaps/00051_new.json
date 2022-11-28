@@ -1,0 +1,66 @@
+{
+  "original_url": "https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504",
+  "self": "http://localhost:1208/timemap/json/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-02-16T05:27:22Z",
+        "uri": "https://web.archive.org/web/20170216052722/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2017-04-26T21:43:23Z",
+        "uri": "https://web.archive.org/web/20170426214323/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2017-04-29T15:25:21Z",
+        "uri": "https://web.archive.org/web/20170429152521/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2017-05-30T22:24:10Z",
+        "uri": "https://webarchive.loc.gov/all/20170530222410/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2017-07-03T15:47:42Z",
+        "uri": "https://web.archive.org/web/20170703154742/http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2017-07-03T15:47:44Z",
+        "uri": "https://web.archive.org/web/20170703154744/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2018-04-23T06:15:10Z",
+        "uri": "https://webarchive.loc.gov/all/20180423061510/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2018-06-04T10:53:38Z",
+        "uri": "https://webarchive.loc.gov/all/20180604105338/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2018-09-07T20:41:49Z",
+        "uri": "https://webarchive.loc.gov/all/20180907204149/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2020-10-16T15:53:20Z",
+        "uri": "https://web.archive.org/web/20201016155320/http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      },
+      {
+        "datetime": "2020-10-16T16:00:15Z",
+        "uri": "https://web.archive.org/web/20201016160015/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+      }
+    ],
+    "first": {
+      "datetime": "2017-02-16T05:27:22Z",
+      "uri": "https://web.archive.org/web/20170216052722/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+    },
+    "last": {
+      "datetime": "2020-10-16T16:00:15Z",
+      "uri": "https://web.archive.org/web/20201016160015/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504",
+    "json_format": "http://localhost:1208/timemap/json/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=NEWS_RELEASES&p_id=33504"
+}

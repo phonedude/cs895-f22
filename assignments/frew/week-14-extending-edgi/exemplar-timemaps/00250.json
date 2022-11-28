@@ -1,0 +1,1182 @@
+{
+  "original_uri": "https://www.osha.gov/dte/edcenters/",
+  "self": "http://localhost:1208/timemap/json/https://www.osha.gov/dte/edcenters/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2010-05-04T09:43:03Z",
+        "uri": "https://web.archive.org/web/20100504094303/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2011-02-09T10:08:32Z",
+        "uri": "https://web.archive.org/web/20110209100832/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2011-02-09T10:08:32Z",
+        "uri": "https://web.archive.org/web/20110209100832/http://www.osha.gov:80/dte/edcenters"
+      },
+      {
+        "datetime": "2011-10-07T12:32:18Z",
+        "uri": "https://web.archive.org/web/20111007123218/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2013-01-13T01:22:38Z",
+        "uri": "https://web.archive.org/web/20130113012238/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2013-02-15T05:43:04Z",
+        "uri": "https://web.archive.org/web/20130215054304/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2013-02-15T05:43:04Z",
+        "uri": "https://web.archive.org/web/20130215054304/http://www.osha.gov:80/dte/edcenters"
+      },
+      {
+        "datetime": "2013-03-02T07:16:24Z",
+        "uri": "https://web.archive.org/web/20130302071624/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2013-05-02T20:34:38Z",
+        "uri": "https://web.archive.org/web/20130502203438/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2013-12-09T22:09:28Z",
+        "uri": "https://web.archive.org/web/20131209220928/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2014-01-09T03:29:37Z",
+        "uri": "https://web.archive.org/web/20140109032937/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2014-04-29T21:52:07Z",
+        "uri": "https://web.archive.org/web/20140429215207/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2014-08-21T16:37:38Z",
+        "uri": "https://web.archive.org/web/20140821163738/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2014-08-22T21:27:44Z",
+        "uri": "https://web.archive.org/web/20140822212744/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2014-08-29T23:33:13Z",
+        "uri": "https://web.archive.org/web/20140829233313/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2014-09-11T18:18:41Z",
+        "uri": "https://web.archive.org/web/20140911181841/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2015-02-19T14:24:39Z",
+        "uri": "https://web.archive.org/web/20150219142439/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2015-03-15T03:48:09Z",
+        "uri": "https://web.archive.org/web/20150315034809/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2015-03-16T01:05:30Z",
+        "uri": "https://web.archive.org/web/20150316010530/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2015-12-07T04:39:01Z",
+        "uri": "https://webarchive.loc.gov/all/20151207043901/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2015-12-07T04:39:04Z",
+        "uri": "https://webarchive.loc.gov/all/20151207043904/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-01-11T05:21:45Z",
+        "uri": "https://webarchive.loc.gov/all/20160111052145/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-01-11T05:21:46Z",
+        "uri": "https://webarchive.loc.gov/all/20160111052146/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-02-06T03:38:10Z",
+        "uri": "https://webarchive.loc.gov/all/20160206033810/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-02-06T03:38:11Z",
+        "uri": "https://webarchive.loc.gov/all/20160206033811/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-03-04T23:13:01Z",
+        "uri": "https://webarchive.loc.gov/all/20160304231301/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-03-04T23:13:02Z",
+        "uri": "https://webarchive.loc.gov/all/20160304231302/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-04-08T05:27:47Z",
+        "uri": "https://webarchive.loc.gov/all/20160408052747/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-04-08T05:27:49Z",
+        "uri": "https://webarchive.loc.gov/all/20160408052749/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-05-08T23:59:45Z",
+        "uri": "https://webarchive.loc.gov/all/20160508235945/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-05-08T23:59:48Z",
+        "uri": "https://webarchive.loc.gov/all/20160508235948/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-06-04T03:36:26Z",
+        "uri": "https://webarchive.loc.gov/all/20160604033626/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-06-04T04:38:18Z",
+        "uri": "https://webarchive.loc.gov/all/20160604043818/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-07-10T11:25:32Z",
+        "uri": "https://webarchive.loc.gov/all/20160710112532/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-08-12T02:01:24Z",
+        "uri": "https://webarchive.loc.gov/all/20160812020124/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-09-16T14:55:10Z",
+        "uri": "https://webarchive.loc.gov/all/20160916145510/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-10-09T10:19:54Z",
+        "uri": "https://webarchive.loc.gov/all/20161009101954/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-11-06T23:38:10Z",
+        "uri": "https://webarchive.loc.gov/all/20161106233810/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2016-12-09T06:29:37Z",
+        "uri": "https://webarchive.loc.gov/all/20161209062937/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-01-13T10:57:29Z",
+        "uri": "https://webarchive.loc.gov/all/20170113105729/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-02-08T08:59:30Z",
+        "uri": "https://webarchive.loc.gov/all/20170208085930/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-03-09T13:51:58Z",
+        "uri": "https://webarchive.loc.gov/all/20170309135158/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-04-09T11:48:07Z",
+        "uri": "https://webarchive.loc.gov/all/20170409114807/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-05-01T03:32:31Z",
+        "uri": "https://web.archive.org/web/20170501033231/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-06-10T12:38:55Z",
+        "uri": "https://webarchive.loc.gov/all/20170610123855/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-06-15T21:21:36Z",
+        "uri": "https://webarchive.loc.gov/all/20170615212136/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-06-16T23:10:50Z",
+        "uri": "https://web.archive.org/web/20170616231050/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-07-02T20:24:36Z",
+        "uri": "https://web.archive.org/web/20170702202436/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-07-08T03:04:33Z",
+        "uri": "https://web.archive.org/web/20170708030433/https://www.osha.gov/dte/edcenters"
+      },
+      {
+        "datetime": "2017-07-08T03:04:35Z",
+        "uri": "https://webarchive.loc.gov/all/20170708030435/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-07-08T03:04:35Z",
+        "uri": "https://web.archive.org/web/20170708030435/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-08-01T01:58:30Z",
+        "uri": "https://web.archive.org/web/20170801015830/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-08-05T09:48:04Z",
+        "uri": "https://webarchive.loc.gov/all/20170805094804/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-09-12T10:08:24Z",
+        "uri": "https://web.archive.org/web/20170912100824/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-10-09T17:44:40Z",
+        "uri": "https://webarchive.loc.gov/all/20171009174440/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-10-13T09:46:56Z",
+        "uri": "https://web.archive.org/web/20171013094656/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-11-06T12:21:20Z",
+        "uri": "https://webarchive.loc.gov/all/20171106122120/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-12-11T02:50:09Z",
+        "uri": "https://webarchive.loc.gov/all/20171211025009/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-12-11T02:50:21Z",
+        "uri": "https://webarchive.loc.gov/all/20171211025021/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-12-11T21:54:21Z",
+        "uri": "https://webarchive.loc.gov/all/20171211215421/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2017-12-19T12:08:07Z",
+        "uri": "https://web.archive.org/web/20171219120807/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-01-08T02:37:07Z",
+        "uri": "https://webarchive.loc.gov/all/20180108023707/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-01-08T03:06:15Z",
+        "uri": "https://webarchive.loc.gov/all/20180108030615/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-02-08T13:10:49Z",
+        "uri": "https://webarchive.loc.gov/all/20180208131049/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-02-14T00:53:03Z",
+        "uri": "https://webarchive.loc.gov/all/20180214005303/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-02-14T00:53:05Z",
+        "uri": "https://webarchive.loc.gov/all/20180214005305/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-03-13T17:24:57Z",
+        "uri": "https://webarchive.loc.gov/all/20180313172457/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-03-13T17:24:58Z",
+        "uri": "https://webarchive.loc.gov/all/20180313172458/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-04-08T12:35:39Z",
+        "uri": "https://webarchive.loc.gov/all/20180408123539/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-04-08T12:35:42Z",
+        "uri": "https://webarchive.loc.gov/all/20180408123542/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-05-04T09:38:10Z",
+        "uri": "https://webarchive.loc.gov/all/20180504093810/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-05-04T13:16:19Z",
+        "uri": "https://webarchive.loc.gov/all/20180504131619/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-05-04T13:16:20Z",
+        "uri": "https://webarchive.loc.gov/all/20180504131620/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-06-07T16:49:57Z",
+        "uri": "https://webarchive.loc.gov/all/20180607164957/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-06-17T02:23:18Z",
+        "uri": "https://webarchive.loc.gov/all/20180617022318/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-07-10T12:30:30Z",
+        "uri": "https://webarchive.loc.gov/all/20180710123030/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-07-10T12:30:31Z",
+        "uri": "https://webarchive.loc.gov/all/20180710123031/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-07-20T02:34:29Z",
+        "uri": "https://web.archive.org/web/20180720023429/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-08-08T06:12:21Z",
+        "uri": "https://webarchive.loc.gov/all/20180808061221/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-08-08T06:12:22Z",
+        "uri": "https://webarchive.loc.gov/all/20180808061222/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-08-09T06:46:15Z",
+        "uri": "https://webarchive.loc.gov/all/20180809064615/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-08-25T20:26:03Z",
+        "uri": "https://web.archive.org/web/20180825202603/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-09-08T18:06:37Z",
+        "uri": "https://webarchive.loc.gov/all/20180908180637/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-09-08T18:06:39Z",
+        "uri": "https://webarchive.loc.gov/all/20180908180639/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-09-13T21:53:19Z",
+        "uri": "https://web.archive.org/web/20180913215319/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-09-19T23:08:40Z",
+        "uri": "https://web.archive.org/web/20180919230840/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-10-11T06:11:37Z",
+        "uri": "https://webarchive.loc.gov/all/20181011061137/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-10-11T06:11:38Z",
+        "uri": "https://webarchive.loc.gov/all/20181011061138/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-10-22T13:27:10Z",
+        "uri": "https://web.archive.org/web/20181022132710/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-11-07T18:52:57Z",
+        "uri": "https://web.archive.org/web/20181107185257/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-11-10T09:42:33Z",
+        "uri": "https://webarchive.loc.gov/all/20181110094233/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-11-12T00:12:03Z",
+        "uri": "https://webarchive.loc.gov/all/20181112001203/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-11-12T00:12:04Z",
+        "uri": "https://webarchive.loc.gov/all/20181112001204/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-11-21T05:34:22Z",
+        "uri": "https://web.archive.org/web/20181121053422/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-12-07T09:48:08Z",
+        "uri": "https://webarchive.loc.gov/all/20181207094808/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2018-12-07T09:48:09Z",
+        "uri": "https://webarchive.loc.gov/all/20181207094809/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-01-08T01:01:07Z",
+        "uri": "https://webarchive.loc.gov/all/20190108010107/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-01-08T01:01:09Z",
+        "uri": "https://webarchive.loc.gov/all/20190108010109/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-01-08T20:54:15Z",
+        "uri": "https://web.archive.org/web/20190108205415/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-01-21T00:10:32Z",
+        "uri": "https://web.archive.org/web/20190121001032/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-01-21T08:12:47Z",
+        "uri": "https://web.archive.org/web/20190121081247/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-02-08T16:33:46Z",
+        "uri": "https://webarchive.loc.gov/all/20190208163346/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-02-08T16:33:47Z",
+        "uri": "https://webarchive.loc.gov/all/20190208163347/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-02-08T22:28:03Z",
+        "uri": "https://webarchive.loc.gov/all/20190208222803/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-02-11T15:03:13Z",
+        "uri": "https://web.archive.org/web/20190211150313/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-03-06T05:26:45Z",
+        "uri": "https://web.archive.org/web/20190306052645/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-03-08T15:46:36Z",
+        "uri": "https://webarchive.loc.gov/all/20190308154636/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-03-08T15:46:38Z",
+        "uri": "https://webarchive.loc.gov/all/20190308154638/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-03-21T02:48:57Z",
+        "uri": "https://web.archive.org/web/20190321024857/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-03-23T19:21:22Z",
+        "uri": "https://web.archive.org/web/20190323192122/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-01T11:32:45Z",
+        "uri": "https://web.archive.org/web/20190401113245/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-06T19:35:26Z",
+        "uri": "https://webarchive.loc.gov/all/20190406193526/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-08T11:33:02Z",
+        "uri": "https://webarchive.loc.gov/all/20190408113302/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-09T16:05:57Z",
+        "uri": "https://web.archive.org/web/20190409160557/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-11T02:43:52Z",
+        "uri": "https://webarchive.loc.gov/all/20190411024352/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-11T02:43:53Z",
+        "uri": "https://webarchive.loc.gov/all/20190411024353/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-04-11T03:46:20Z",
+        "uri": "https://webarchive.loc.gov/all/20190411034620/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-05-02T02:45:43Z",
+        "uri": "https://web.archive.org/web/20190502024543/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-05-24T05:19:50Z",
+        "uri": "https://web.archive.org/web/20190524051950/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-05-25T06:39:50Z",
+        "uri": "https://web.archive.org/web/20190525063950/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-06-06T12:14:18Z",
+        "uri": "https://webarchive.loc.gov/all/20190606121418/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-06-11T11:11:50Z",
+        "uri": "https://webarchive.loc.gov/all/20190611111150/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-06-21T13:50:35Z",
+        "uri": "https://web.archive.org/web/20190621135035/https://www.osha.gov/dte/edcenters"
+      },
+      {
+        "datetime": "2019-06-21T13:50:48Z",
+        "uri": "https://web.archive.org/web/20190621135048/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-07-25T16:24:54Z",
+        "uri": "https://web.archive.org/web/20190725162454/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-07-26T18:41:22Z",
+        "uri": "https://web.archive.org/web/20190726184122/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-08-14T09:29:51Z",
+        "uri": "https://webarchive.loc.gov/all/20190814092951/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-08-14T09:49:20Z",
+        "uri": "https://webarchive.loc.gov/all/20190814094920/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-05T15:03:20Z",
+        "uri": "https://webarchive.loc.gov/all/20190905150320/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-07T04:10:03Z",
+        "uri": "https://web.archive.org/web/20190907041003/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-10T20:16:29Z",
+        "uri": "https://webarchive.loc.gov/all/20190910201629/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-10T20:16:33Z",
+        "uri": "https://webarchive.loc.gov/all/20190910201633/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-24T06:26:00Z",
+        "uri": "https://web.archive.org/web/20190924062600/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-25T12:54:52Z",
+        "uri": "https://web.archive.org/web/20190925125452/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-09-28T11:03:57Z",
+        "uri": "https://web.archive.org/web/20190928110357/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-10-09T03:40:48Z",
+        "uri": "https://webarchive.loc.gov/all/20191009034048/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-10-09T05:04:00Z",
+        "uri": "https://webarchive.loc.gov/all/20191009050400/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-10-18T06:41:30Z",
+        "uri": "https://web.archive.org/web/20191018064130/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-11-15T16:46:24Z",
+        "uri": "https://webarchive.loc.gov/all/20191115164624/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-11-15T16:46:27Z",
+        "uri": "https://webarchive.loc.gov/all/20191115164627/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-12-08T15:33:55Z",
+        "uri": "https://webarchive.loc.gov/all/20191208153355/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-12-09T19:40:04Z",
+        "uri": "https://webarchive.loc.gov/all/20191209194004/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-12-09T19:40:05Z",
+        "uri": "https://webarchive.loc.gov/all/20191209194005/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-12-11T23:01:03Z",
+        "uri": "https://web.archive.org/web/20191211230103/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2019-12-17T13:44:26Z",
+        "uri": "https://web.archive.org/web/20191217134426/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-01-12T13:07:32Z",
+        "uri": "https://webarchive.loc.gov/all/20200112130732/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-01-12T13:07:33Z",
+        "uri": "https://webarchive.loc.gov/all/20200112130733/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-02-12T10:28:32Z",
+        "uri": "https://webarchive.loc.gov/all/20200212102832/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-02-12T10:28:33Z",
+        "uri": "https://webarchive.loc.gov/all/20200212102833/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-02-15T20:23:09Z",
+        "uri": "https://web.archive.org/web/20200215202309/http://www.osha.gov:80/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-03-13T17:11:34Z",
+        "uri": "https://webarchive.loc.gov/all/20200313171134/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-03-13T17:11:35Z",
+        "uri": "https://webarchive.loc.gov/all/20200313171135/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-03-24T04:24:15Z",
+        "uri": "https://web.archive.org/web/20200324042415/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-03-24T04:24:15Z",
+        "uri": "https://web.archive.org/web/20200324042415/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-03-24T05:05:27Z",
+        "uri": "https://web.archive.org/web/20200324050527/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-03-24T05:05:27Z",
+        "uri": "https://web.archive.org/web/20200324050527/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-04-08T12:00:02Z",
+        "uri": "https://webarchive.loc.gov/all/20200408120002/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-04-08T12:00:04Z",
+        "uri": "https://webarchive.loc.gov/all/20200408120004/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-04-27T23:35:46Z",
+        "uri": "https://web.archive.org/web/20200427233546/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-04-27T23:35:46Z",
+        "uri": "https://web.archive.org/web/20200427233546/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-04-27T23:36:19Z",
+        "uri": "https://web.archive.org/web/20200427233619/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-05-02T21:13:56Z",
+        "uri": "https://web.archive.org/web/20200502211356/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-05-02T21:40:44Z",
+        "uri": "https://web.archive.org/web/20200502214044/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-05-14T11:17:03Z",
+        "uri": "https://webarchive.loc.gov/all/20200514111703/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-05-14T11:17:05Z",
+        "uri": "https://webarchive.loc.gov/all/20200514111705/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-06-04T08:46:28Z",
+        "uri": "https://web.archive.org/web/20200604084628/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-06-07T10:38:43Z",
+        "uri": "https://webarchive.loc.gov/all/20200607103843/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-06-07T10:38:45Z",
+        "uri": "https://webarchive.loc.gov/all/20200607103845/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-07-07T08:08:13Z",
+        "uri": "https://webarchive.loc.gov/all/20200707080813/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-07-07T08:08:16Z",
+        "uri": "https://webarchive.loc.gov/all/20200707080816/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-08-09T00:42:02Z",
+        "uri": "https://webarchive.loc.gov/all/20200809004202/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-08-09T00:42:04Z",
+        "uri": "https://webarchive.loc.gov/all/20200809004204/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-08-21T08:10:55Z",
+        "uri": "https://webarchive.loc.gov/all/20200821081055/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-09-06T02:07:08Z",
+        "uri": "https://webarchive.loc.gov/all/20200906020708/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-09-06T02:07:11Z",
+        "uri": "https://webarchive.loc.gov/all/20200906020711/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-10-12T16:46:15Z",
+        "uri": "https://webarchive.loc.gov/all/20201012164615/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-10-12T16:46:16Z",
+        "uri": "https://webarchive.loc.gov/all/20201012164616/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-10-17T04:22:22Z",
+        "uri": "https://web.archive.org/web/20201017042222/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-10-31T11:23:33Z",
+        "uri": "https://web.archive.org/web/20201031112333/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-11-06T14:38:24Z",
+        "uri": "https://web.archive.org/web/20201106143824/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-11-10T07:20:48Z",
+        "uri": "https://webarchive.loc.gov/all/20201110072048/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-11-10T07:20:50Z",
+        "uri": "https://webarchive.loc.gov/all/20201110072050/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-11-12T11:43:15Z",
+        "uri": "https://webarchive.loc.gov/all/20201112114315/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-12-03T16:16:30Z",
+        "uri": "https://webarchive.loc.gov/all/20201203161630/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2020-12-03T16:16:32Z",
+        "uri": "https://webarchive.loc.gov/all/20201203161632/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-01-09T03:35:11Z",
+        "uri": "https://webarchive.loc.gov/all/20210109033511/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-01-09T03:35:14Z",
+        "uri": "https://webarchive.loc.gov/all/20210109033514/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-02-04T21:09:03Z",
+        "uri": "https://webarchive.loc.gov/all/20210204210903/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-02-04T21:09:06Z",
+        "uri": "https://webarchive.loc.gov/all/20210204210906/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-02-27T23:42:18Z",
+        "uri": "https://webarchive.loc.gov/all/20210227234218/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-03-06T00:35:13Z",
+        "uri": "https://webarchive.loc.gov/all/20210306003513/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-03-06T00:35:15Z",
+        "uri": "https://webarchive.loc.gov/all/20210306003515/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-03-18T19:13:22Z",
+        "uri": "https://web.archive.org/web/20210318191322/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-03-30T01:01:44Z",
+        "uri": "https://web.archive.org/web/20210330010144/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-14T10:53:44Z",
+        "uri": "https://web.archive.org/web/20210414105344/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-16T04:49:14Z",
+        "uri": "https://webarchive.loc.gov/all/20210416044914/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-16T15:50:52Z",
+        "uri": "https://webarchive.loc.gov/all/20210416155052/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-17T03:51:52Z",
+        "uri": "https://webarchive.loc.gov/all/20210417035152/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-18T14:50:32Z",
+        "uri": "https://webarchive.loc.gov/all/20210418145032/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-19T15:49:17Z",
+        "uri": "https://webarchive.loc.gov/all/20210419154917/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-20T15:00:36Z",
+        "uri": "https://webarchive.loc.gov/all/20210420150036/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-21T03:00:49Z",
+        "uri": "https://webarchive.loc.gov/all/20210421030049/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-21T15:04:52Z",
+        "uri": "https://webarchive.loc.gov/all/20210421150452/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-22T03:32:36Z",
+        "uri": "https://webarchive.loc.gov/all/20210422033236/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-22T15:03:25Z",
+        "uri": "https://webarchive.loc.gov/all/20210422150325/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-23T03:29:44Z",
+        "uri": "https://webarchive.loc.gov/all/20210423032944/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-23T15:11:28Z",
+        "uri": "https://webarchive.loc.gov/all/20210423151128/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-24T03:36:33Z",
+        "uri": "https://webarchive.loc.gov/all/20210424033633/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-24T14:55:07Z",
+        "uri": "https://webarchive.loc.gov/all/20210424145507/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-25T03:03:47Z",
+        "uri": "https://webarchive.loc.gov/all/20210425030347/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-25T14:42:38Z",
+        "uri": "https://webarchive.loc.gov/all/20210425144238/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-26T02:59:37Z",
+        "uri": "https://webarchive.loc.gov/all/20210426025937/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-26T14:54:11Z",
+        "uri": "https://webarchive.loc.gov/all/20210426145411/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-04-27T03:28:26Z",
+        "uri": "https://webarchive.loc.gov/all/20210427032826/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-06-02T16:15:43Z",
+        "uri": "https://webarchive.loc.gov/all/20210602161543/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-07-14T12:02:14Z",
+        "uri": "https://web.archive.org/web/20210714120214/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-07-17T15:56:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210717155644/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-07-17T15:56:44Z",
+        "uri": "https://web.archive.org/web/20210717155644/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-07-23T23:19:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210723231936/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-07-23T23:19:36Z",
+        "uri": "https://web.archive.org/web/20210723231936/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-07T06:10:41Z",
+        "uri": "https://wayback.archive-it.org/all/20210807061041/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-07T06:10:41Z",
+        "uri": "https://web.archive.org/web/20210807061041/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-16T16:20:59Z",
+        "uri": "https://webarchive.loc.gov/all/20210816162059/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-20T22:52:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210820225233/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-20T22:52:33Z",
+        "uri": "https://web.archive.org/web/20210820225233/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-27T18:04:46Z",
+        "uri": "https://wayback.archive-it.org/all/20210827180446/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-08-27T18:04:46Z",
+        "uri": "https://web.archive.org/web/20210827180446/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-09-10T17:11:42Z",
+        "uri": "https://wayback.archive-it.org/all/20210910171142/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-09-10T17:11:42Z",
+        "uri": "https://web.archive.org/web/20210910171142/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-09-17T21:50:45Z",
+        "uri": "https://wayback.archive-it.org/all/20210917215045/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-09-17T21:50:45Z",
+        "uri": "https://web.archive.org/web/20210917215045/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-09-26T04:23:04Z",
+        "uri": "https://wayback.archive-it.org/all/20210926042304/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-09-26T04:23:04Z",
+        "uri": "https://web.archive.org/web/20210926042304/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-02T16:25:34Z",
+        "uri": "https://wayback.archive-it.org/all/20211002162534/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-02T16:25:34Z",
+        "uri": "https://web.archive.org/web/20211002162534/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-08T22:54:55Z",
+        "uri": "https://wayback.archive-it.org/all/20211008225455/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-08T22:54:55Z",
+        "uri": "https://web.archive.org/web/20211008225455/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-15T14:41:56Z",
+        "uri": "https://wayback.archive-it.org/all/20211015144156/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-15T14:41:56Z",
+        "uri": "https://web.archive.org/web/20211015144156/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-23T13:46:10Z",
+        "uri": "https://wayback.archive-it.org/all/20211023134610/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-23T13:46:10Z",
+        "uri": "https://web.archive.org/web/20211023134610/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-29T11:16:05Z",
+        "uri": "https://wayback.archive-it.org/all/20211029111605/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-10-29T11:16:05Z",
+        "uri": "https://web.archive.org/web/20211029111605/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-08T07:55:39Z",
+        "uri": "https://wayback.archive-it.org/all/20211108075539/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-08T07:55:39Z",
+        "uri": "https://web.archive.org/web/20211108075539/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-13T13:53:44Z",
+        "uri": "https://wayback.archive-it.org/all/20211113135344/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-13T13:53:44Z",
+        "uri": "https://web.archive.org/web/20211113135344/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-19T15:58:58Z",
+        "uri": "https://web.archive.org/web/20211119155858/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-19T19:09:43Z",
+        "uri": "https://web.archive.org/web/20211119190943/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-20T17:44:58Z",
+        "uri": "https://wayback.archive-it.org/all/20211120174458/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-20T17:44:58Z",
+        "uri": "https://web.archive.org/web/20211120174458/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-27T19:38:43Z",
+        "uri": "https://wayback.archive-it.org/all/20211127193843/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-11-27T19:38:43Z",
+        "uri": "https://web.archive.org/web/20211127193843/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-05T07:43:55Z",
+        "uri": "https://wayback.archive-it.org/all/20211205074355/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-05T07:43:55Z",
+        "uri": "https://web.archive.org/web/20211205074355/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-11T11:25:07Z",
+        "uri": "https://wayback.archive-it.org/all/20211211112507/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-11T11:25:07Z",
+        "uri": "https://web.archive.org/web/20211211112507/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-17T22:48:26Z",
+        "uri": "https://wayback.archive-it.org/all/20211217224826/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-17T22:48:26Z",
+        "uri": "https://web.archive.org/web/20211217224826/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-18T06:28:10Z",
+        "uri": "https://web.archive.org/web/20211218062810/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-25T15:03:43Z",
+        "uri": "https://wayback.archive-it.org/all/20211225150343/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2021-12-25T15:03:43Z",
+        "uri": "https://web.archive.org/web/20211225150343/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-02T05:37:10Z",
+        "uri": "https://wayback.archive-it.org/all/20220102053710/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-02T05:37:10Z",
+        "uri": "https://web.archive.org/web/20220102053710/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-07T22:43:08Z",
+        "uri": "https://wayback.archive-it.org/all/20220107224308/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-07T22:43:08Z",
+        "uri": "https://web.archive.org/web/20220107224308/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-14T18:49:31Z",
+        "uri": "https://wayback.archive-it.org/all/20220114184931/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-14T18:49:31Z",
+        "uri": "https://web.archive.org/web/20220114184931/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-20T12:11:43Z",
+        "uri": "https://web.archive.org/web/20220120121143/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-21T20:38:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220121203829/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-21T20:38:29Z",
+        "uri": "https://web.archive.org/web/20220121203829/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-30T01:27:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220130012701/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-01-30T01:27:01Z",
+        "uri": "https://web.archive.org/web/20220130012701/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-02-05T06:43:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220205064340/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-02-05T06:43:40Z",
+        "uri": "https://web.archive.org/web/20220205064340/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-02-15T18:49:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220215184944/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-02-15T18:49:44Z",
+        "uri": "https://web.archive.org/web/20220215184944/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-02-19T05:33:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220219053338/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-02-19T05:33:38Z",
+        "uri": "https://web.archive.org/web/20220219053338/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-03-06T08:14:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220306081452/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-03-06T08:14:52Z",
+        "uri": "https://web.archive.org/web/20220306081452/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-03-12T23:26:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220312232612/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-03-12T23:26:12Z",
+        "uri": "https://web.archive.org/web/20220312232612/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-06-01T03:50:27Z",
+        "uri": "https://web.archive.org/web/20220601035027/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-06-02T20:39:34Z",
+        "uri": "https://web.archive.org/web/20220602203934/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-08-15T21:45:08Z",
+        "uri": "https://web.archive.org/web/20220815214508/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-08-15T21:45:24Z",
+        "uri": "https://web.archive.org/web/20220815214524/https://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-10-06T16:41:54Z",
+        "uri": "https://web.archive.org/web/20221006164154/https://www.osha.gov/dte/edcenters"
+      },
+      {
+        "datetime": "2022-10-06T16:51:38Z",
+        "uri": "https://web.archive.org/web/20221006165138/http://www.osha.gov/dte/edcenters/"
+      },
+      {
+        "datetime": "2022-10-06T17:15:43Z",
+        "uri": "https://web.archive.org/web/20221006171543/http://www.osha.gov/dte/edcenters"
+      }
+    ],
+    "first": {
+      "datetime": "2010-05-04T09:43:03Z",
+      "uri": "https://web.archive.org/web/20100504094303/http://www.osha.gov:80/dte/edcenters/"
+    },
+    "last": {
+      "datetime": "2022-10-06T17:15:43Z",
+      "uri": "https://web.archive.org/web/20221006171543/http://www.osha.gov/dte/edcenters"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.osha.gov/dte/edcenters/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.osha.gov/dte/edcenters/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.osha.gov/dte/edcenters/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.osha.gov/dte/edcenters/"
+}

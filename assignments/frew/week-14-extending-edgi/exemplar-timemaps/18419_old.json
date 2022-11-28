@@ -1,0 +1,170 @@
+{
+  "original_uri": "https://energy.gov/exit?url=https%3A//www.sbv.org/",
+  "self": "http://localhost:1208/timemap/json/https://energy.gov/exit?url=https%3A//www.sbv.org/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-11-20T21:17:54Z",
+        "uri": "https://webarchive.loc.gov/all/20151120211754/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-02-19T06:24:50Z",
+        "uri": "https://webarchive.loc.gov/all/20160219062450/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-05-18T02:04:33Z",
+        "uri": "https://webarchive.loc.gov/all/20160518020433/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-08-12T09:43:19Z",
+        "uri": "https://web.archive.org/web/20160812094319/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-08-23T17:24:39Z",
+        "uri": "https://webarchive.loc.gov/all/20160823172439/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-12-16T15:46:05Z",
+        "uri": "https://webarchive.loc.gov/all/20161216154605/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-12-16T15:46:05Z",
+        "uri": "https://web.archive.org/web/20161216154605/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-12-16T15:46:15Z",
+        "uri": "https://webarchive.loc.gov/all/20161216154615/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-12-16T15:46:15Z",
+        "uri": "https://web.archive.org/web/20161216154615/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2016-12-24T10:22:59Z",
+        "uri": "https://web.archive.org/web/20161224102259/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-01-01T10:40:01Z",
+        "uri": "https://web.archive.org/web/20170101104001/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-01-13T05:34:25Z",
+        "uri": "https://web.archive.org/web/20170113053425/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-01-27T14:38:34Z",
+        "uri": "https://web.archive.org/web/20170127143834/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-02-08T18:33:07Z",
+        "uri": "https://web.archive.org/web/20170208183307/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-02-23T11:24:07Z",
+        "uri": "https://webarchive.loc.gov/all/20170223112407/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-02-23T11:24:07Z",
+        "uri": "https://web.archive.org/web/20170223112407/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-03-26T12:27:38Z",
+        "uri": "https://webarchive.loc.gov/all/20170326122738/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-03-26T12:27:38Z",
+        "uri": "https://web.archive.org/web/20170326122738/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-05-27T10:42:07Z",
+        "uri": "https://web.archive.org/web/20170527104207/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-06-14T08:39:06Z",
+        "uri": "https://web.archive.org/web/20170614083906/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-06-29T07:23:32Z",
+        "uri": "https://webarchive.loc.gov/all/20170629072332/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-06-29T07:23:32Z",
+        "uri": "https://web.archive.org/web/20170629072332/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-07-13T14:28:23Z",
+        "uri": "https://web.archive.org/web/20170713142823/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2017-07-25T23:47:46Z",
+        "uri": "https://web.archive.org/web/20170725234746/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2018-10-11T06:10:59Z",
+        "uri": "https://web.archive.org/web/20181011061059/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2019-01-04T12:42:23Z",
+        "uri": "https://web.archive.org/web/20190104124223/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2019-01-10T11:22:24Z",
+        "uri": "https://web.archive.org/web/20190110112224/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2020-06-09T00:24:01Z",
+        "uri": "https://arquivo.pt/wayback/20200609002401mp_/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2020-08-28T18:08:28Z",
+        "uri": "https://arquivo.pt/wayback/20200828180828mp_/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2020-10-16T17:57:29Z",
+        "uri": "https://web.archive.org/web/20201016175729/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2020-10-29T12:12:13Z",
+        "uri": "https://web.archive.org/web/20201029121213/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2020-10-29T12:12:38Z",
+        "uri": "https://web.archive.org/web/20201029121238/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2020-12-20T03:35:01Z",
+        "uri": "https://web.archive.org/web/20201220033501/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2021-03-19T05:18:10Z",
+        "uri": "https://web.archive.org/web/20210319051810/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2021-04-10T03:21:29Z",
+        "uri": "https://web.archive.org/web/20210410032129/http://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2021-05-26T13:58:59Z",
+        "uri": "https://web.archive.org/web/20210526135859/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+      },
+      {
+        "datetime": "2021-05-26T13:59:03Z",
+        "uri": "https://web.archive.org/web/20210526135903/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-11-20T21:17:54Z",
+      "uri": "https://webarchive.loc.gov/all/20151120211754/http://energy.gov/exit?url=https%3A//www.sbv.org/"
+    },
+    "last": {
+      "datetime": "2021-05-26T13:59:03Z",
+      "uri": "https://web.archive.org/web/20210526135903/https://www.energy.gov/exit?url=https%3A//www.sbv.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://energy.gov/exit?url=https%3A//www.sbv.org/",
+    "json_format": "http://localhost:1208/timemap/json/https://energy.gov/exit?url=https%3A//www.sbv.org/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://energy.gov/exit?url=https%3A//www.sbv.org/"
+}

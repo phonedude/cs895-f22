@@ -1,0 +1,29 @@
+Processing memento https://web.archive.org/web/20181117094620/https://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20180205094811/https://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20170919145827/https://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20170430023835/http://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20161209182512/http://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20170128184744/https://www.esrl.noaa.gov/gmd/obop/thd
+Processing memento https://web.archive.org/web/20170427143713/http://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20170315094617/http://esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://webarchive.loc.gov/all/20170203150250/https://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://webarchive.loc.gov/all/20170220132206/http://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20170315094617/http://esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://webarchive.loc.gov/all/20170203150250/https://www.esrl.noaa.gov/gmd/obop/thd/
+
+The term anthropogenic was deleted between these two mementos: 
+{'datetime': '2017-02-03T15:02:50Z', 'uri': 'https://webarchive.loc.gov/all/20170203150250/https://www.esrl.noaa.gov/gmd/obop/thd/'}
+{'datetime': '2017-03-15T09:46:17Z', 'uri': 'https://web.archive.org/web/20170315094617/http://esrl.noaa.gov/gmd/obop/thd/'}
+pre-deletion wc: 495
+post-deletion wc: 425
+ 
+Processing memento https://web.archive.org/web/20120708140711/http://www.esrl.noaa.gov/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20111128044318/http://www.esrl.noaa.gov:80/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20090410083930/http://www.esrl.noaa.gov:80/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20100622031706/http://www.esrl.noaa.gov:80/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20100112073349/http://www.esrl.noaa.gov:80/gmd/obop/thd
+Processing memento https://web.archive.org/web/20091019150225/http://www.esrl.noaa.gov:80/gmd/obop/thd/
+Processing memento https://web.archive.org/web/20090506172559/http://www.esrl.noaa.gov/gmd/obop/thd/
+
+The term anthropogenic was added in this memento: 
+{'datetime': '2009-10-19T15:02:25Z', 'uri': 'https://web.archive.org/web/20091019150225/http://www.esrl.noaa.gov:80/gmd/obop/thd/'}

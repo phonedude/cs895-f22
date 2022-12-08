@@ -98,21 +98,21 @@ Other forensics examples:
 
 * Week 12 - November 14 - Student Forensics Studies 3
   * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf)
-  * Emily Escamilla - Verified accounts on Twitter @RudyGiualianiESQ vs @RudyGiualiani
+  * Emily Escamilla - [When a 'Blue Check' Means Nothing](/tree/main/assignments/escamilla/week-12-rudy-giualiani)
 
 * Week 13 - November 21 - Student Presentations 5
-  * Skanda Dhanushkanda - How well are Srilankan sites archived?
-  * Emily Escamilla - [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html)
-  * Bhanuka Mahanma - [Diffusion of Lexical Change in Social Media](https://doi.org/10.1371/journal.pone.0113114)
-  * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/)
+  * Emily Escamilla - [Only One Out of Five Archived Web Pages Existed as Presented](/tree/main/assignments/escamilla/week-13-only-one-out-of-five)
+  * Bhanuka Mahanma - [Diffusion of Lexical Change in Social Media](/tree/main/assignments/mahanama/week-13-diffusion-of-lexical-change)
+  * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](/tree/main/assignments/zaki/week-13-Twitter-purge-retrospective-analysis)
 
 * Week 14 - November 28 - Student Forensics Studies 4
-  * Yasith Jayawardana - 
+  * Skanda Dhanushkanda - How well are Sri Lankan sites archived?
   * David Calano - 
-  * Lesley Frew - EDGI revisited
+  * Lesley Frew - [Extending the EDGI US federal environmental agency websites study](/tree/main/assignments/frew/week-14-extending-edgi)
 
 * Week 15 - December 5 - Student Forensics Studies 5
-  * Skanda Dhanushkanda -
+  * Yasith Jayawardana - 
+  * Skanda Dhanushkanda - 
   * Bhanuka Mahanma - 
   * Tarannum Zaki -
 
@@ -164,7 +164,7 @@ Other forensics examples:
 
 * Xinyi Zhou, Reza Zafarani, [Fake News: A Survey of Research, Detection Methods, and Opportunities](https://arxiv.org/abs/1812.00315),  Technical Report arXiv:1812.00315, 2018.
 
-* Jacob Eisenstein , Brendan O'Connor, Noah A. Smith, Eric P. Xing, [Diffusion of Lexical Change in Social Media](https://doi.org/10.1371/journal.pone.0113114), PLoS ONE 9(11), 2014.
+* Jacob Eisenstein, Brendan O'Connor, Noah A. Smith, Eric P. Xing, [Diffusion of Lexical Change in Social Media](https://doi.org/10.1371/journal.pone.0113114), PLoS ONE 9(11), 2014.
 
 * Tom Wilson, Kaitlyn Zhou, Kate Starbird, [Assembling Strategic Narratives: Information Operations as Collaborative Work within an Online Community](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1080639935923696339), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
 

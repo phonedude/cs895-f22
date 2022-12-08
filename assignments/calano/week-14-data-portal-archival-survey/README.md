@@ -4,8 +4,7 @@ Quantitative data forms the bedrock with which we can measure the world around u
 
 # Popular Data Portals
 [World Health Organization](https://www.who.int/data)
-[CIA World Factbook](https://www.cia.gov/the-world-factbook/)
-  - [Factbook GitHub Project](https://github.com/factbook)
+[CIA World Factbook](https://www.cia.gov/the-world-factbook/) (also see [Factbook GitHub Project](https://github.com/factbook))
 [Data.gov](https://data.gov/)
 [Worldometers](https://www.worldometers.info/)
 [United Nations Data](https://data.un.org/)

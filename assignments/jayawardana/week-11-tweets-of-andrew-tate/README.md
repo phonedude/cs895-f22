@@ -1,5 +1,9 @@
 # Archived Tweets of Andrew Tate
 
+## Background
+This repository contains the forensic study by Yasith Jayawardana on the controversial tweets that got Andrew Tate banned from the platform.
+It contains the presentation done during class, and the web archiving forensics process (and files) followed to uncover his banned profiles and tweets.
+
 ### Step 1 - Obtain Archived Tweet URI-Ms
 ```bash
 

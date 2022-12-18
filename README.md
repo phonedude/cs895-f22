@@ -114,7 +114,7 @@ Other forensics examples:
   * Yasith Jayawardana - [Nov 15, 2022 Missile Strike on Poland](/tree/main/assignments/jayawardana/week-13-poland-missile)
   * Skanda Dhanushkanda - [Labeled tweets of Donald Trump](/tree/main/assignments/dhanushkanda/week-15-labeled-tweets-of-donald-trump)
   * Bhanuka Mahanma - [Sri Lankan Inflation using Web Archives](/tree/main/assignments/mahanama/week-15-sri-lankan-inflation-web-archives)
-  * Tarannum Zaki - [The Controversy with Dictionary Keywords on Social Media](/tree/main/assignments/zaki/week-15-controversy-dictionary-keywords-social media)
+  * Tarannum Zaki - [The Controversy with Dictionary Keywords on Social Media](/tree/main/assignments/zaki/week-15-controversy-dictionary-keywords-social%20media)
 
 * Week 16 - December 12 - Exam Week
 

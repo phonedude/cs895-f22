@@ -84,7 +84,7 @@ Other forensics examples:
 * Week 9 - October 24 - Student Presentations 3 / Student Forensics Studies 1 continued 
   * Emily Escamilla - [Replaying Archived Twitter: When your bird is broken, will it bring you down?](/assignments/escamilla/week-09-replaying-archived-twitter)
   * Yasith Jayawardana - [Where Did the Web Archive Go?](/assignments/jayawardana/week-09-where-did-the-web-archive-go)
-  * Bhanuka Mahanma - @an_cabraal -- the ex-Governor of the Central Bank of Sri Lanka (CBSL)
+  * Bhanuka Mahanma - [Sri Lankan Economic Crisis and the ex-Governor of Central Bank](/tree/main/assignments/mahanama/week-09-an-cabraal-ex-governor-cbsl)
 
 * Week 10 October 31 - Student Forensics Studies 2
   * Tarannum - [Rep. Marjorie Taylor Greene's controversial 4th of July fabricated tweet](/assignments/zaki/week-10-fabricated-4th%20of%20July-tweet-forensic-study)
@@ -97,7 +97,7 @@ Other forensics examples:
   * Yasith Jayawardana - [Tweets of Andrew Tate](/assignments/jayawardana/week-11-tweets-of-andrew-tate)
 
 * Week 12 - November 14 - Student Forensics Studies 3
-  * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf)
+  * Skanda Dhanushkanda - [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives, Rewriting history: Changing the archived web from the present](/tree/main/assignments/dhanushkanda/week-12-rewriting-history-changing-the-archived-web-from-the-present)
   * Emily Escamilla - [When a 'Blue Check' Means Nothing](/tree/main/assignments/escamilla/week-12-rudy-giualiani)
 
 * Week 13 - November 21 - Student Presentations 5
@@ -106,15 +106,15 @@ Other forensics examples:
   * Tarannum Zaki - [On Twitter Purge: A Retrospective Analysis of Suspended Users](/tree/main/assignments/zaki/week-13-Twitter-purge-retrospective-analysis)
 
 * Week 14 - November 28 - Student Forensics Studies 4
-  * Skanda Dhanushkanda - How well are Sri Lankan sites archived?
-  * David Calano - 
+  * Skanda Dhanushkanda - [How well are Sri Lankan sites archived?](/tree/main/assignments/dhanushkanda/week-14-how-well-are-sri-lankan-sites-archived)
+  * David Calano - [Web Archival Survey of Global Data Portals](/tree/main/assignments/calano/week-14-data-portal-archival-survey)
   * Lesley Frew - [Extending the EDGI US federal environmental agency websites study](/tree/main/assignments/frew/week-14-extending-edgi)
 
 * Week 15 - December 5 - Student Forensics Studies 5
-  * Yasith Jayawardana - 
-  * Skanda Dhanushkanda - 
-  * Bhanuka Mahanma - 
-  * Tarannum Zaki -
+  * Yasith Jayawardana - [Nov 15, 2022 Missile Strike on Poland](/tree/main/assignments/jayawardana/week-13-poland-missile)
+  * Skanda Dhanushkanda - [Labeled tweets of Donald Trump](/tree/main/assignments/dhanushkanda/week-15-labeled-tweets-of-donald-trump)
+  * Bhanuka Mahanma - [Sri Lankan Inflation using Web Archives](/tree/main/assignments/mahanama/week-15-sri-lankan-inflation-web-archives)
+  * Tarannum Zaki - [The Controversy with Dictionary Keywords on Social Media](/tree/main/assignments/zaki/week-15-controversy-dictionary-keywords-social media)
 
 * Week 16 - December 12 - Exam Week
 

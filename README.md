@@ -1,11 +1,11 @@
-### ODU CS 795/795 Web Archiving Forensics, Fall 2022.
+### ODU CS 795/895 Web Archiving Forensics, Fall 2022.
 Instructor: [Michael L. Nelson](http://www.cs.odu.edu/~mln/) <mln@cs.odu.edu> 
 
 Office Hours: Mondays 2-4 and by appointment
 
 Time: Mondays 4:20pm - 7:00pm
 
-Place: online -- contact intstructor for Zoom URL
+Place: online -- contact instructor for Zoom URL
 
 [Syllabus](https://raw.githubusercontent.com/phonedude/cs895-f22/master/syllabus.txt)
 
